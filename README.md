@@ -34,13 +34,11 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
       <a href="https://aws.amazon.com/" target="_blank"> <img src="https://png2.cleanpng.com/sh/806b4e6584c622d71191d33edf7d318b/L0KzQYq3U8AyN5dtgJH0aYP2gLBuTfNtcaEyeeR9LXzyd7E0mfVtdJD8RdR7YX7nPb3wjvUuaah4Rd54Z3AwhMPojwNxaaNqhuY2YX3zPcH1h71kdJp1eeR9LXb1dba0hP94dp10RadsN0m3QIe3hPYxa2oARqYBMEK2RIOCUcU2OWU6SKQ5OEm0Q4e1kP5o/kisspng-clip-art-logo-yellow-brand-line-aws-logo-transparent-amp-png-clipart-free-downlo-5c794060df0c99.4602342915514502089136.png" alt="amazon" width="48" height="48"/> </a> 
-
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
       
-    <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
 </p>
 
 ## Connect with me:
