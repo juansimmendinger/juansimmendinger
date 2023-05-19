@@ -43,5 +43,5 @@
 ## Connect with me:
 <p align="left">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/juan-simmendinger-b78874101/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:juanrossi.1995@gmail.com) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/juan-simmendinger-b78874101/)
 </p>
